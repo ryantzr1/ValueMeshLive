@@ -1,6 +1,6 @@
 # ValueMesh - Transforming Professional Networking
 
-ValueMesh is designed to be a structured, personalized solution for professional networking. It's not about who has the most connections; it's about understanding the value that each connection can bring to your career or business.
+ValueMesh is designed to be a structured, personalized solution for professional networking. It's not about who has the most connections; it's about understanding the value that each connection can bring to your career or business. Try it now at https://value-mesh.vercel.app/
 
 # What ValueMesh Can Do:
 Personalized Networking: ValueMesh allows users to sort, filter, and add connections based on specific criteria, making their network more meaningful and efficient.
@@ -20,3 +20,5 @@ Take a step towards efficient and meaningful professional networking by visiting
 
 Let's make professional networking more valuable together!
 
+
+Created by @ryantzr1
